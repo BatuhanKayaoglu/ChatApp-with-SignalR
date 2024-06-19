@@ -27,13 +27,13 @@ cd ChatApp-with-SignalR
 # Kullanım
 1. Chat Odasına Katılma
    
-2. Mevcut chat odalarından birine katılabilir veya yeni bir chat odası oluşturabilirsiniz. Bir odaya katıldıktan sonra, diğer kullanıcılarla anında mesajlaşmaya başlayabilirsiniz.
+Mevcut chat odalarından birine katılabilir veya yeni bir chat odası oluşturabilirsiniz. Bir odaya katıldıktan sonra, diğer kullanıcılarla anında mesajlaşmaya başlayabilirsiniz.
 
-3. Mesaj Gönderme ve Alma
+2. Mesaj Gönderme ve Alma
    
 Mesaj gönderme ve alma işlemleri gerçek zamanlı olarak gerçekleşir. Yazdığınız mesajlar anında diğer kullanıcılara iletilir ve onların mesajları da anında size ulaşır.
 
-4. Kullanıcı Durumu Takibi
+3. Kullanıcı Durumu Takibi
    
 Uygulama, kullanıcıların çevrimiçi veya çevrimdışı olup olmadığını gösterir. Böylece hangi kullanıcıların aktif olduğunu görebilirsiniz.
 
